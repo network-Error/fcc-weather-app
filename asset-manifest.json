@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/fcc-weather-app/static/css/main.0fd02877.css",
+    "main.js": "/fcc-weather-app/static/js/main.de854451.js",
+    "static/js/453.3c0f080f.chunk.js": "/fcc-weather-app/static/js/453.3c0f080f.chunk.js",
+    "index.html": "/fcc-weather-app/index.html",
+    "main.0fd02877.css.map": "/fcc-weather-app/static/css/main.0fd02877.css.map",
+    "main.de854451.js.map": "/fcc-weather-app/static/js/main.de854451.js.map",
+    "453.3c0f080f.chunk.js.map": "/fcc-weather-app/static/js/453.3c0f080f.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0fd02877.css",
+    "static/js/main.de854451.js"
+  ]
+}
